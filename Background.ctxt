@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Background()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\r\n\ Creates\ a\ bow\ and\ arrow\ and\ sets\ up\ velocity\ and\ score\ fields.\r\n
+comment1.params=
+comment1.target=void\ Start()
+comment2.params=
+comment2.target=void\ restart()
+comment2.text=\r\n\ Method\ restart\r\n\ Removes\ all\ arrows\r\n
+comment3.params=
+comment3.target=void\ buildIntro()
+comment3.text=\r\n\ Include\ "Start",\ "Password"\ and\ "Instructions"\r\n
+comment4.params=
+comment4.target=void\ buildInstructions()
+comment5.params=
+comment5.target=void\ clearWorld()
+comment6.params=
+comment6.target=void\ setAllTransparent()
+comment6.text=\r\n\ Designed\ for\ level\ 11;\r\n\ sets\ all\ objects\ to\ be\ translucent.\r\n
+numComments=7

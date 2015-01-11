@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=Number(java.lang.String)
+comment0.text=\r\n\ Score\ Constructor\r\n\ Creates\ an\ image\ for\ the\ Score()\ class\ and\ draw\ text\r\n\ @param\ text\ A\ parameter\r\n
+comment1.params=text
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ Method\ setText\r\n\ updates\ score\ using\ setText()\ -\ see\ the\ Enemy's\ collision\ event\r\n\ @param\ text\ A\ parameter\r\n
+comment2.params=add
+comment2.target=void\ addToScore(int)
+comment2.text=\r\n\ Method\ addToScore\r\n\ Shows\ the\ score\ layout\ on\ the\ screen.\r\n\ @param\ points\ A\ parameter\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4
