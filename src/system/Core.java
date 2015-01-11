@@ -59,8 +59,8 @@ public class Core {
 		int ID = Operator.getLastIDTrans(con);
 
 		String header = "\n"
-				+ "\t\t        PC Part Shop"
-				+ "\n\t\t  Hi Tech Mall Surabaya "
+				+ "\t\t        Aplikasi Penjualan"
+				+ "\n\t\t  Toko Obat Herbal "
 				+ "\n\t \t\t  No. "
 				+ ID
 				+ "\nKasir : "
@@ -86,8 +86,8 @@ public class Core {
 
 	public void printReport(Vector<Barang> brg) {
 		String header = "\n"
-				+ "\t\t    PC Part Shop"
-				+ "\n\t\t Hi Tech Mall Surabaya"
+				+ "\t\t    Aplikasi Penjualan"
+				+ "\n\t\t Hi Toko Obat Herbal"
 				+ "\n\t   Stok barang tgl "
 				+ getDateAsString()
 				+ "\nKasir : "
