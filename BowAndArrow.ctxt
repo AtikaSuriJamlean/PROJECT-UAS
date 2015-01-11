@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=velocity_field\ score_field
+comment0.target=BowAndArrow(Number,\ Score)
+comment0.text=\r\n\ BowAndArrow\ Constructor\r\n\ Sets\ up\ the\ velocity\ display.\r\n\ @param\ velocity_field\ A\ parameter\r\n
+comment1.params=
+comment1.target=void\ keyPresses()
+comment1.text=\r\n\ Method\ keyPresses\r\n\ All\ of\ the\ controls\ used\ in\ the\ game\:\ rotation,\ velocity,\ and\ shooting.\r\n
+comment2.params=
+comment2.target=void\ imageSwitch()
+comment2.text=\r\n\ Method\ imageSwitch\r\n\ Switches\ the\ image\ after\ shooting\ and\ resets\ it.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ BowAndArrow\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

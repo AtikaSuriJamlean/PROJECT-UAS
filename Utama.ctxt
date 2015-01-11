@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Utama()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Background.\r\n\ Creates\ a\ bow\ and\ arrow\ and\ sets\ up\ velocity\ and\ score\ fields.\r\n
+numComments=1

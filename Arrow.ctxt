@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=vector\ startRotation\ score_field
+comment0.target=Arrow(Vector,\ int,\ Score)
+comment0.text=\r\n\ Arrow\ Constructor\r\n\ Creates\ the\ arrow\ with\ movement\ and\ rotation\ and\ sets\ up\ the\ acceleration.\r\n\ @param\ vector\ A\ parameter\r\n\ @param\ startRotation\ A\ parameter\r\n\ @param\ score_field\ A\ parameter\r\n
+comment1.params=
+comment1.target=void\ fall()
+comment1.text=\r\n\ Method\ fall\r\n\ Moves\ the\ arrow\ downward\ with\ an\ acceleration.\r\n
+comment2.params=
+comment2.target=void\ jump()
+comment2.text=\r\n\ Method\ jump\r\n\ Initial\ boost\ to\ the\ arrow\ right\ off\ the\ string.\r\n
+comment3.params=
+comment3.target=void\ checkPoints()
+comment3.text=\r\n\ Method\ checkPoints\r\n\ Checks\ the\ location\ of\ the\ arrow\ on\ the\ target\ and\ assigns\ points\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\r\n\ Runs\ location\ checks,\ moves\ and\ accelerates\ the\ arrows,\ calculates\ vertical\ speed,\ and\ controls\ the\ in-air\ rotation.\r\n
+numComments=5
